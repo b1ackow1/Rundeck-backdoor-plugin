@@ -23,7 +23,7 @@ A backdoor plugin for rundeck
 ## 编译
 
 ```bash
-# 1. 编译插件
+# 编译插件
 mvn clean package
 
 ```
@@ -70,7 +70,7 @@ mvn clean package
 ========================================
   Multi-Route Injection Tool
 ========================================
-Route Configuration: v4,v6
+Route Configuration: v4,v5,v6
 
 [Step 1] Finding ClassLoader...
 ✓ ClassLoader: WebappClassLoader
