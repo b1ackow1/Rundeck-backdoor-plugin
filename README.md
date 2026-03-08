@@ -18,6 +18,7 @@ A backdoor plugin for rundeck
 | **V5** | Suo5 Tunnel | `/static/suo5` | defineClass 注入 + HTTP 隧道 |
 | **V6** | Godzilla | `/static/godzilla` | AES 加密 + 动态 payload |
 
+![](https://b1ackow1.github.io/2026/03/08/rundeck-backdoor-for-java/2026-03-08-16-38-18.png)
 
 ## 编译
 
@@ -93,3 +94,5 @@ Route Configuration: v4,v6
 ✓ Injection completed successfully!
 ========================================
 ```
+
+
