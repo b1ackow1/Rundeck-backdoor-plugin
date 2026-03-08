@@ -96,3 +96,8 @@ Route Configuration: v4,v6
 ```
 
 
+本项目采用 [MIT License](https://opensource.org/licenses/MIT) 开源。
+
+如果这个项目对你有帮助，欢迎给个Star！
+
+
